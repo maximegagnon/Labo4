@@ -1,5 +1,1 @@
-Bonjour
-Hello
-Hello2
-Muhahaha! j'ai modifier le Readme!
-Hello, friend!
+Bonjourcat README.txt !
